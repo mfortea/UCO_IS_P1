@@ -1,2 +1,2 @@
 Fichero A
-Segundo cambio desde local
+Cambios desde GitHub y local
